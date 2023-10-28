@@ -55,3 +55,18 @@
 
 4. **File Storage**:
    - Choose and implement a file storage solution (e.g., Amazon S3) and integrate it with the backend for secure file storage.
+5. **File Expiration**:
+   - Develop a scheduled task to remove anonymous files after 7 days.
+
+6. **Design and UI**:
+   - Design a minimalistic user interface for the application, focusing on a clean and intuitive user experience.
+
+7. **Testing and Quality Assurance**:
+   - Test the application thoroughly to ensure all features work as expected.
+   - Perform security testing to safeguard user data.
+
+8. **Deployment**:
+   - Deploy the application to a web server or cloud platform of your choice.
+
+9. **Documentation**:
+   - Create detailed documentation for future reference, including setup instructions and user guides.
