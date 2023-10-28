@@ -70,3 +70,7 @@
 
 9. **Documentation**:
    - Create detailed documentation for future reference, including setup instructions and user guides.
+
+## Conclusion
+
+The SuperCoolFileHost project aims to create a user-friendly file hosting application using the MERN stack, offering features like secure file storage, subscription management, and file expiration. It will cater to users looking for a minimalistic and efficient platform for file sharing and hosting.
