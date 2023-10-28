@@ -22,3 +22,19 @@
 
 5. **Minimalistic Design**:
    - Design the application with a clean and minimalistic user interface.
+
+## Technology Stack
+
+- **Frontend**:
+   - React.js for the user interface.
+   - CSS or a CSS framework for styling.
+
+- **Backend**:
+   - Node.js and Express for the server.
+   - MongoDB for the database.
+
+- **File Storage**:
+   - Choose between external object storage services like Amazon S3 or a custom storage solution depending on the project's scalability and budget.
+
+- **Payment Processing**:
+   - Integrate Stripe for handling subscriptions and payments.
